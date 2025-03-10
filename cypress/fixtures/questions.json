@@ -1,0 +1,20 @@
+[
+    {
+    "question": "Which of the following is a mutable data type in Python?",
+    "answers": [
+      { "text": "str", "isCorrect": false },
+      { "text": "tuple", "isCorrect": false },
+      { "text": "list", "isCorrect": true },
+      { "text": "int", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a mutable data type in Python?",
+    "answers": [
+      { "text": "str", "isCorrect": false },
+      { "text": "tuple", "isCorrect": false },
+      { "text": "list", "isCorrect": true },
+      { "text": "int", "isCorrect": false }
+    ]
+  }
+]
